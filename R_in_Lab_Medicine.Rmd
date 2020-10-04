@@ -358,6 +358,6 @@ pairwise.t.test(tube.data$PTH,tube.data$Tube ,p.adj = "bonf",paired = TRUE)
 ## Contact Information and Download Information
 
 - dtholmes@mail.ubc.ca
-- github: drdanholmes
+- github repository for this talk: [https://github.com/drdanholmes/SIBioC2020](https://github.com/drdanholmes/SIBioC2020)
 
 
